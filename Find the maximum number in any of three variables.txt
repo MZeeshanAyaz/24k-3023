@@ -1,0 +1,23 @@
+Find the maximum number in any of three variables.
+START
+
+INPUT A
+INPUT B
+INPUT C
+
+SET A=2
+SET B=3
+SET C=4
+
+IF A>B && A>C
+	PRINT"A is maximum"
+ELSEIF B>A && B>C
+	PRINT"B is Maximum"
+ELSE 
+	PRINT"C is Maximum"
+
+OUTPUT C is Maximum
+
+END
+
+
