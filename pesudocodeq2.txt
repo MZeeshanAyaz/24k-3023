@@ -1,0 +1,19 @@
+Take three variables as input and add them without using the + operator
+START
+
+
+INPUT A
+INPUT B
+INPUT C
+INPUT AVG
+
+SET A=2
+SET B=3
+SET C=4
+SET AVG=3
+
+SET AVG*3=Sum Of ABC
+	
+OUTPUT Sum Of ABC = 9
+ 
+END
