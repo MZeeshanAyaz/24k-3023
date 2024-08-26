@@ -1,0 +1,10 @@
+Q3......Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+
+Ask the user to enter A
+Ask the user to enter B 
+Ask the user to enter any arithmetic operations (+,-,*,/,%)
+SET result = A+B (When user enter +)
+SET result = A-B (when user enter -)
+SET result = A-B (when user enter /)
+SET result = A-B (when user enter %)
+Display the result according to the given data provided by the user 
