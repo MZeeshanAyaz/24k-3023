@@ -2,7 +2,7 @@
 # Muhammad Zeeshan Ayaz
 **Roll Number: 24k-3023**
 + Father’s Name: Muhammad Ayaz
-+ Education: Completed Matriculation and Intermediate at Bahria College Karsaz
++ Education: Completed Matriculation and Intermediate from Bahria College Karsaz
 + Current Study: BSE at FAST NU Karachi
 + Hobbies: 
  Playing basketball,
