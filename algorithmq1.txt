@@ -5,4 +5,4 @@ Ask the user to enter n
 Ask the user to enter Nth divisor
 SET divide the n number with Nth number(n/Nth)
 If the remainder is zero then Nth number is the divisor of n number otherwise if remainder is not zero then Nth number is not the divisor of n number 
-If n number %2 and its remainder is equals to 0 display the even number else odd number  
+If n number %2 and its remainder is equals to 0 display the even number otherwise odd number  
