@@ -1,19 +1,19 @@
 Q2.....Implement an algorithm where the user enters a number, and an appropriate month is displayed.
 
 
-Ask the user to enter random number (1-12)
-Ask the user to must enter number>=1 & <=12
-SET when user enter 1 dispaly January
-SET when user enter 2 dispaly February
-SET when user enter 3 dispaly March
-SET when user enter 4 dispaly April
-SET when user enter 5 dispaly May
-SET when user enter 6 dispaly June
-SET when user enter 7 dispaly July
-SET when user enter 8 dispaly August
-SET when user enter 9 dispaly September
-SET when user enter 10 dispaly Octuber
-SET when user enter 11 dispaly November
-SET when user enter 12 dispaly December
-Display the month as per the user enter the number 
-Display Error when user enter value other than 1,2,3,4,5,6,7,8,9,10,11,12
+Ask the user to enter random number (1-12).
+Ask the user to must enter number>=1 & <=12.
+SET when user enter 1 dispaly 'January'
+SET when user enter 2 dispaly 'February'
+SET when user enter 3 dispaly 'March'
+SET when user enter 4 dispaly 'April'
+SET when user enter 5 dispaly 'May'
+SET when user enter 6 dispaly 'June'
+SET when user enter 7 dispaly 'July'
+SET when user enter 8 dispaly 'August'
+SET when user enter 9 dispaly 'September'
+SET when user enter 10 dispaly 'Octuber'
+SET when user enter 11 dispaly 'November'
+SET when user enter 12 dispaly 'December'
+Display the month as per the user enter the number.
+Display Error when user enter value other than 1,2,3,4,5,6,7,8,9,10,11,12.
