@@ -8,10 +8,10 @@ INPUT RESULT
 SET A=0
 SET B=0
 SET RESULT=0
-IF Arithmetic Operator is '+'
+IF Arithmetic Operator is "+"
 SET Result= A+B
 ELSE 
 SET Result= A-B
-OUTPUT Dispaly'RESULT' 
-OUTPUT Display'Error:you put wrong data' 
+OUTPUT Dispaly"RESULT" 
+OUTPUT Display"Error:you put wrong data" 
 END
