@@ -1,20 +1,17 @@
 Q3.... Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with
 one being used for the operator)
 START 
-
 INPUT A
 INPUT B
 INPUT Arithmetic Operator (+,-)
-
-SET A=4
-SET B=3
-
-FOR '+' Arithmetic Operator
+INPUT RESULT
+SET A=0
+SET B=0
+SET RESULT=0
+IF Arithmetic Operator is '+'
 SET Result= A+B
-FOR '-' Arithmetic Operator
+ELSE 
 SET Result= A-B
-
-OUTPUT RESULT = 7 (FOR '+' Operation)
-OUTPUT RESULT = 1 (FOR '-' Operation)
-
+OUTPUT Dispaly'RESULT' 
+OUTPUT Display'Error:you put wrong data' 
 END
