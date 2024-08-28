@@ -3,14 +3,14 @@ Q3...Implement an algorithm for making a simple calculator with all the operator
 Ask the user to enter A.
 Ask the user to enter B. 
 Ask the user to enter any arithmetic operators (+,-,*,/,%).
-IF the arithmetic operator is '+'
+IF the arithmetic operator is "+"
 SET result = A+B
-ELSEIF the arithmetic operator is '-'
+ELSEIF the arithmetic operator is "-"
 SET result = A-B 
-ELSEIF the arithmetic operator is '*'
+ELSEIF the arithmetic operator is "*"
 SET result = A-B
-ELSEIF the arithmetic operator is '/'
+ELSEIF the arithmetic operator is "/"
 SET result = A-B
-ELSE the arithmetic operator is '%'
+ELSE the arithmetic operator is "%"
 SET result = A%B 
 Display the result according to the given data provided by the user.
