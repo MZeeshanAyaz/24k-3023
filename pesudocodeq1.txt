@@ -12,7 +12,7 @@ ELSEIF B>A && B>C
 	PRINT"B is Maximum"
 ELSE 
 	PRINT"C is Maximum"
-OUTPUT C is Maximum
+OUTPUT Diaply"C is Maximum"
 END
 
 
