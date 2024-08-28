@@ -5,8 +5,6 @@ INPUT A
 INPUT B
 INPUT Arithmetic Operator (+,-)
 INPUT RESULT
-SET A=0
-SET B=0
 SET RESULT=0
 IF Arithmetic Operator is "+"
 SET Result= A+B
