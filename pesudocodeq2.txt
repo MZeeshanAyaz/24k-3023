@@ -9,5 +9,5 @@ SET B=0
 SET C=0
 SET AVG=0
 SET AVG*3=Sum Of ABC
-OUTPUT Diaply'Sum Of ABC' 
+OUTPUT Diaply"Sum Of ABC" 
 END
