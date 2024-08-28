@@ -5,11 +5,11 @@ Ask the user to enter B.
 Ask the user to enter any arithmetic operators (+,-,*,/,%).
 IF the arithmetic operator is '+'
 SET result = A+B
-ELSE IF the arithmetic operator is '-'
+ELSEIF the arithmetic operator is '-'
 SET result = A-B 
-ELSE IF the arithmetic operator is '*'
+ELSEIF the arithmetic operator is '*'
 SET result = A-B
-IFELSE the arithmetic operator is '/'
+ELSEIF the arithmetic operator is '/'
 SET result = A-B
 ELSE the arithmetic operator is '%'
 SET result = A%B 
