@@ -3,11 +3,7 @@ START
 INPUT A
 INPUT B
 INPUT C
-INPUT AVG
-SET A=0
-SET B=0
-SET C=0
-SET AVG=0
-SET AVG*3=Sum Of ABC
-OUTPUT Diaply"Sum Of ABC" 
+Sum=0
+SET sum=(-A-B-C)/-1
+OUTPUT Display"Sum" 
 END
